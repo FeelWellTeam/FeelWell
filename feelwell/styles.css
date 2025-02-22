@@ -1,0 +1,33 @@
+
+ body {
+    background-color: #1A1B3A;
+    color: white;
+}
+
+
+a {
+    color: white;
+}
+
+@media screen {
+    
+}
+form {
+    text-align: center;
+    width: 300px;
+  border: 5px solid white;
+  padding: 50px;
+ 
+}
+
+button {
+    background-color:#C03B8A;
+    color: white;
+    width: 60px;
+    text-align: center;
+    margin: 10px;
+}
+
+#email, #p {
+    border-radius: 25px;
+}
